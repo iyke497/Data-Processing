@@ -34,11 +34,11 @@ def extract_lines(file_path):
 if __name__ == "__main__":
     # Assuming the markdown files are named output_chunk_1.md to output_chunk_5.md.
     for i in range(1, 6):
-        file_path = f"output_chunk_{i}.md"
+        file_path = f"2025_act_chunk_{i}.md"
         extracted_data = extract_lines(file_path)
         
         # Write the extracted JSON data to a corresponding output file.
-        output_file = f"output_chunk_{i}.json"
+        output_file = f"2025_act_chunk_{i}.json"
         with open(output_file, "w", encoding="utf-8") as outfile:
             json.dump(extracted_data, outfile, indent=2)
         
