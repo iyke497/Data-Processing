@@ -42,3 +42,17 @@ if __name__ == "__main__":
 # Total -------------------> 10,802 projects.
 
 
+# chunk_1_filter.json contains 4398 projects
+# chunk_2_filter.json contains 9034 projects
+# chunk_3_filter.json contains 7994 projects
+# chunk_4_filter.json contains 4201 projects
+# chunk_5_filter.json contains 2029 projects
+# Total ---------------------> 27656 projects
+
+
+
+
+
+
+
+
