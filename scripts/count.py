@@ -24,13 +24,15 @@ if __name__ == "__main__":
 # output_chunk_3.json contains 1350 projects.                                       
 # output_chunk_4.json contains  601 projects.                                                                                                                                                  
 # output_chunk_5.json contains  526 projects.
+
 # Total ---------------------> 4262 projects.
 
 # 2025_act_chunk_1.json contains 1542 projects.        
 # 2025_act_chunk_2.json contains 2066 projects.                                                                                          
 # 2025_act_chunk_3.json contains 2460 projects.        
 # 2025_act_chunk_4.json contains 1773 projects.                                                                                                                                   
-# 2025_act_chunk_5.json contains  683 projects. 
+# 2025_act_chunk_5.json contains  683 projects.
+
 # Total -----------------------> 8524 projects.
 
 
@@ -39,15 +41,17 @@ if __name__ == "__main__":
 # merged_chunk_3.json contains 3167 projects.
 # merged_chunk_4.json contains 1989 projects.
 # merged_chunk_5.json contains  952 projects.
+
 # Total -------------------> 10,802 projects.
 
 
-# chunk_1_filter.json contains 4398 projects
+# chunk_1_filter.json contains 4398 projects --> 4418
 # chunk_2_filter.json contains 9034 projects
 # chunk_3_filter.json contains 7994 projects
 # chunk_4_filter.json contains 4201 projects
 # chunk_5_filter.json contains 2029 projects
-# Total ---------------------> 27656 projects
+
+# Total ---------------------> 27,656 projects --> 27,779 projects
 
 
 
